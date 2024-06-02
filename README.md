@@ -7,4 +7,4 @@ Hi! This repository contains my Frontend Mentor Challenges.
 
 | #   | Challenge                                    | Demo Link    |
 | --- | -------------------------------------------- | ------------ |
-| 1.  | [Advice Generator App](advice-generator-app) | [Demo](demo) |
+| 1.  | [Advice Generator App](advice-generator-app) | [Demo](https://kezigoo.github.io/frontendmentor-challenges/advice-generator-app/) |
