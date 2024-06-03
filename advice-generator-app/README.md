@@ -7,8 +7,6 @@
 
 - Vanila JavaScript
 - Vanila CSS
-- Flexbox
-- Mobile-first workflow
 - [Anime.js](https://animejs.com/) - JavaScript animation library
 
 ## Screenshot
