@@ -1,4 +1,4 @@
-# Advice Generator App
+# Notifications Page
 
 - [Link to challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC)
 - [Live Demo](https://kezigoo.github.io/frontendmentor-challenges/notifications-page/)
