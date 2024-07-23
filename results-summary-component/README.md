@@ -1,10 +1,11 @@
-# Notifications Page
+# Results Summary Component
 
 - [Link to challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 - [Live Demo](https://kezigoo.github.io/frontendmentor-challenges/results-summary-component/)
 
 ## Built with
 
+- [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Screenshot
