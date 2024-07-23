@@ -12,4 +12,4 @@ Hi! This repository contains my Frontend Mentor Challenges.
 | 3.  | [Notifications page](notifications-page)               | [Demo](https://kezigoo.github.io/frontendmentor-challenges/notifications-page)        |
 | 4.  | [Social links profile](social-links-profile)           | [Demo](https://kezigoo.github.io/frontendmentor-challenges/social-links-profile)      |
 | 5.  | [Results Summary Component](results-summary-component) | [Demo](https://kezigoo.github.io/frontendmentor-challenges/results-summary-component) |
-| 6.  | [Order Summary Component](order-summary-component)     | [Demo](https://kezigoo.github.io/frontendmentor-order-summary-component)              |
+| 6.  | [Order Summary Component](order-summary-component)     | [Demo](https://kezigoo.github.io/frontendmentor-challenges/order-summary-component)   |
