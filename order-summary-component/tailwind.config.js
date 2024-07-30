@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
-export default {
-  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+module.exports = {
+  content: ['./**/*.{html,js}'],
   theme: {
     extend: {
       fontFamily: {
@@ -12,9 +12,6 @@ export default {
         veryPaleBlue: 'hsl(225, 100%, 98%)',
         desaturatedBlue: 'hsl(224, 23%, 55%)',
         darkBlue: 'hsl(223, 47%, 23%)',
-      },
-      boxShadow: {
-        blueShadow: 'rgba(56, 41, 224, 1)',
       },
     },
   },
