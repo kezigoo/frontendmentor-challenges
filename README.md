@@ -13,3 +13,4 @@ Hi! This repository contains my Frontend Mentor Challenges.
 | 4.  | [Social links profile](social-links-profile)           | [Demo](https://kezigoo.github.io/frontendmentor-challenges/social-links-profile)      |
 | 5.  | [Results Summary Component](results-summary-component) | [Demo](https://kezigoo.github.io/frontendmentor-challenges/results-summary-component) |
 | 6.  | [Order Summary Component](order-summary-component)     | [Demo](https://kezigoo.github.io/frontendmentor-challenges/order-summary-component)   |
+| 7.  | [QR Code Component](qr-code-component)                 | [Demo](https://kezigoo.github.io/frontendmentor-challenges/qr-code-component)         |
