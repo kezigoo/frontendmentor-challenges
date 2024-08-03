@@ -1,4 +1,4 @@
-# Notifications Page
+# Social Links Profile
 
 - [Link to challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 - [Live Demo](https://kezigoo.github.io/frontendmentor-challenges/social-links-profile/)

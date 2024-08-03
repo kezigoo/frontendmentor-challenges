@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Stats Preview Card Component</title>
+  </head>
+  <body class="bg-veryDarkBlue h-screen flex items-center justify-center px-7">
+    <div
+      class="bg-darkDesaturatedBlue flex flex-col lg:flex-row-reverse w-[375px] max-w-[375px] lg:w-[900px] lg:max-w-[900px] rounded-lg overflow-hidden"
+    >
+      <!--  -->
+      <div class="relative">
+        <div class="absolute bg-softViolet w-full h-full opacity-40"></div>
+        <img
+          class="lg:hidden"
+          src="./assets/image-header-mobile.jpg"
+          alt="hero image"
+        />
+        <img
+          class="hidden lg:block"
+          src="./assets/image-header-desktop.jpg"
+          alt="hero image"
+        />
+      </div>
+      <!--  -->
+      <div
+        class="text-white flex flex-col lg:items-start lg:justify-between text-center lg:text-left py-9 px-8 lg:px-14 lg:py-14 max-w-[450px]"
+      >
+        <h1 class="font-bold text-[26px] lg:text-[30px] leading-8">
+          Get
+          <span class="text-softViolet">insights</span> that help your business
+          grow.
+        </h1>
+        <p
+          class="text-slightlyTransparentWhite2 lg:text-xs mt-5 leading-6 lg:leading-5 lg:mr-12"
+        >
+          Discover the benefits of data analytics and make better decisions
+          regarding revenue, customer experience, and overall efficiency.
+        </p>
+
+        <div class="w-full flex flex-col lg:flex-row mt-8 gap-y-5 lg:gap-x-10">
+          <div class="flex flex-col gap-y-1">
+            <span class="font-bold text-2xl lg:text-xl">10k+</span>
+            <span
+              class="text-slightlyTransparentWhite2 text-xs lg:text-[10px] tracking-widest"
+              >COMPANIES</span
+            >
+          </div>
+          <div class="flex flex-col gap-y-1">
+            <span class="font-bold text-2xl lg:text-xl">314</span>
+            <span
+              class="text-slightlyTransparentWhite2 text-xs lg:text-[10px] tracking-widest"
+              >TEMPLATES</span
+            >
+          </div>
+          <div class="flex flex-col gap-y-1">
+            <span class="font-bold text-2xl lg:text-xl">12M+</span>
+            <span
+              class="text-slightlyTransparentWhite2 text-xs lg:text-[10px] tracking-widest"
+              >QUERIES</span
+            >
+          </div>
+        </div>
+      </div>
+      <!--  -->
+    </div>
+  </body>
+</html>
