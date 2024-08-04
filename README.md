@@ -15,3 +15,4 @@ Hi! This repository contains my Frontend Mentor Challenges.
 | 6.  | [Order Summary Component](order-summary-component)           | [Demo](https://kezigoo.github.io/frontendmentor-challenges/order-summary-component)      |
 | 7.  | [QR Code Component](qr-code-component)                       | [Demo](https://kezigoo.github.io/frontendmentor-challenges/qr-code-component)            |
 | 8.  | [Stats Preview Card Component](stats-preview-card-component) | [Demo](https://kezigoo.github.io/frontendmentor-challenges/stats-preview-card-component) |
+| 9.  | [Profile Card Component](profile-card-component)             | [Demo](https://kezigoo.github.io/frontendmentor-challenges/profile-card-component)       |
